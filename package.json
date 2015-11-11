@@ -1,0 +1,29 @@
+{
+  "name": "jurahungaria.hu",
+  "version": "1.0.0",
+  "description": "jurahungaria.hu",
+  "main": "index.js",
+  "scripts": {
+    "lr": "livereload ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patoi/jurahungaria.hu.git"
+  },
+  "keywords": [
+    "Jura",
+    "Hungária",
+    "weboldal",
+    "home",
+    "page"
+  ],
+  "author": "Pató István",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/patoi/jurahungaria.hu/issues"
+  },
+  "homepage": "https://github.com/patoi/jurahungaria.hu#readme",
+  "devDependencies": {
+    "livereload": "^0.4.0"
+  }
+}
